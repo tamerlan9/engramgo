@@ -1,3 +1,0 @@
-baseFreq=134
-multiplier=21
-melodicOffset=17
