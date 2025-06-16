@@ -1,1 +1,3 @@
-1
+baseFreq=134
+multiplier=21
+keyOffset=17
