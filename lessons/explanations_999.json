@@ -153,9 +153,13 @@
           ["Why not ask?", "Почему бы не спросить?"],
           ["Why not buy?", "Почему бы не купить?"]
         ] },
+
         { "type": "text", "text": "" },
-        { "type": "text", "text": "⚠️ После \"why\" нельзя ставить \"to\"\n\n❌ Why to do it?\n✅ Why do it?"
-        }
+        { "type": "table", "rows": "⚠️ После \"why\" нельзя ставить \"to\":"
+        },
+        { "type": "table", "rows": [
+          ["❌ Why to do it?\n✅ Why do it?\"", "Зачем делать это?"]
+        ] }
       ]
     }
   ]
