@@ -155,7 +155,7 @@
         ] },
 
         { "type": "text", "text": "" },
-        { "type": "table", "rows": "⚠️ После \"why\" нельзя ставить \"to\":"
+        { "type": "text", "text": "⚠️ После \"why\" нельзя ставить \"to\":"
         },
         { "type": "table", "rows": [
           ["❌ Why to do it?\n✅ Why do it?\"", "Зачем делать это?"]
