@@ -158,8 +158,16 @@
         { "type": "text", "text": "⚠️ После \"why\" нельзя ставить \"to\":"
         },
         { "type": "table", "rows": [
-          ["Зачем делать это?", "Why ~~to~~ do it?"]
-        ] }
+            [
+              "Зачем делать это?",
+              [
+                { "text": "Why " },
+                { "text": "to", "strike": true, "color": "red", "bold": true },
+                { "text": " do it?" }
+              ]
+            ]
+          ]
+        }
       ]
     }
   ]
